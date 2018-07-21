@@ -11,7 +11,7 @@ Group:		Networking/Daemons
 #Source0Download: https://github.com/z3APA3A/3proxy/releases/
 Source0:	https://github.com/z3APA3A/3proxy/archive/%{version}/%{name}-%{version}.tar.gz
 # Source0-md5:	f8ccbe689ff8da8ff67942fc440187ae
-URL:		https://3proxy.ru/
+URL:		https://3proxy.ru/?l=EN
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
