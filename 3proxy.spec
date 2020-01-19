@@ -4,13 +4,13 @@
 Summary:	3APA3A 3proxy tiny proxy server
 Summary(pl.UTF-8):	Mały serwer proxy 3APA3A 3proxy
 Name:		3proxy
-Version:	0.8.12
+Version:	0.8.13
 Release:	1
 License:	BSD or Apache v2.0 or LGPL v2.1+
 Group:		Networking/Daemons
 #Source0Download: https://github.com/z3APA3A/3proxy/releases/
 Source0:	https://github.com/z3APA3A/3proxy/archive/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	f8ccbe689ff8da8ff67942fc440187ae
+# Source0-md5:	d9420c56f05fb78bf9043dd8a30c6a1c
 URL:		https://3proxy.ru/?l=EN
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
